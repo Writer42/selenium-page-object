@@ -1,0 +1,1 @@
+# Page Object Model в PyTest by Writer42
